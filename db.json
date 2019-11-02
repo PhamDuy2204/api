@@ -1,7 +1,8 @@
 {
   "posts": [
     {
-      "MaSV": 1,
+      "id": 1,
+      "MaSV": 145,
       "HoTen": "duy",
       "Email": "nhockduy12356@gmail.com",
       "SoDT": 0986322937,
