@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "MaSV": 0,
+    "HoTen": "string",
+    "Email": "string",
+    "SoDT": 0,
+    "CMND": 0,
+    "DiemToan": 0,
+    "DiemLy": 0,
+    "DiemHoa": 0
     }
   ],
   "profile": {
