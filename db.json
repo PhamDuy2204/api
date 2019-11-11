@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "MaHS": 145,
+      "TenHS": "PhamDuy",
+      "Email":"nhockduy12356@gmail.com",
+      "DiaChi":"hcm",
+      "GioiTinh":"nam"
     }
   ],
   "profile": {
