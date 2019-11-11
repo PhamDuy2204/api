@@ -1,13 +1,11 @@
 {
-  "posts": [
-    {
+   {
       "MaHS": 145,
       "TenHS": "PhamDuy",
       "Email":"nhockduy12356@gmail.com",
       "DiaChi":"hcm",
       "GioiTinh":"nam"
-    }
-  ],
+   },
   "profile": {
     "name": "typicode"
   }
